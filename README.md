@@ -1,6 +1,6 @@
 
 
-# Gerenciador de Projetos Laravel 🚀
+# Gerenciador de Projetos e Tasks Laravel 🚀
 
 Este projeto é um sistema de gerenciamento de projetos e tarefas, desenvolvido com o framework PHP **Laravel** em um grupo de alunos para
 um trabalho no técnico.
